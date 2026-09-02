@@ -5,6 +5,7 @@
 * Whisper Chat
 * Multiplayer
 * Password protected rooms
+* Lobby player list
 
 # To Do
 * Shop
