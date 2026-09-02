@@ -7,12 +7,13 @@
 * Password protected rooms
 * Lobby player list
 * New players nickname creation + confirm nickname isnt taken
+* Buddy Server
+* Friend List
 
 # To Do
 * Shop
 * Inventory
 * Black Market
-* Buddy Server (Add Friend, Friend List, etc.)
 * Clans
 * Repair weapon
 * Durability deduction from matches
@@ -35,4 +36,5 @@
 <img width="660" height="237" alt="image" src="https://github.com/user-attachments/assets/29afc42c-80d5-4a0b-88c8-b3b9a2e63a3c" />
 <img width="302" height="162" alt="image" src="https://github.com/user-attachments/assets/42733bc9-cec0-44bc-a663-ae23ece61e68" />
 <img width="752" height="570" alt="image" src="https://github.com/user-attachments/assets/d7bc5432-24d0-47fb-b983-1e40c9aca7fd" />
+<img width="327" height="316" alt="image" src="https://github.com/user-attachments/assets/f66a74e8-4e65-40e9-bd32-6e693d7d867e" />
 
