@@ -1,4 +1,4 @@
-# Current Progress
+# Done
 * Login/Auth
 * Room Chat
 * Lobby Chat
@@ -6,6 +6,7 @@
 * Multiplayer
 * Password protected rooms
 * Lobby player list
+* New players nickname creation + confirm nickname isnt taken
 
 # To Do
 * Shop
