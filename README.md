@@ -4,7 +4,7 @@
 * Lobby Chat
 * Whisper Chat
 * Multiplayer
-
+* Password protected rooms
 
 # To Do
 * Shop
@@ -14,7 +14,7 @@
 * Clans
 * Repair weapon
 * Durability deduction from matches
-
+* Change Room Settings (Map/Mode)
 
 
 
