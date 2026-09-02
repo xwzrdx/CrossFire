@@ -6,6 +6,16 @@
 * Multiplayer
 
 
+# To Do
+* Shop
+* Inventory
+* Black Market
+* Buddy Server (Add Friend, Friend List, etc.)
+* Clans
+* Repair weapon
+* Durability deduction from matches
+
+
 
 
 # Screenshots
