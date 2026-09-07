@@ -38,3 +38,5 @@
 <img width="752" height="570" alt="image" src="https://github.com/user-attachments/assets/d7bc5432-24d0-47fb-b983-1e40c9aca7fd" />
 <img width="327" height="316" alt="image" src="https://github.com/user-attachments/assets/f66a74e8-4e65-40e9-bd32-6e693d7d867e" />
 
+
+Discord: ``wzrd0001``
