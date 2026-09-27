@@ -1,3 +1,6 @@
+Server Emulator for CrossFire (2012 Z8Games)
+
+
 # Done
 * Login/Auth
 * Room Chat
@@ -9,6 +12,8 @@
 * New players nickname creation + confirm nickname isnt taken
 * Buddy Server
 * Friend List
+* Change Room Settings
+* Room List
 
 # To Do
 * Shop
@@ -17,7 +22,7 @@
 * Clans
 * Repair weapon
 * Durability deduction from matches
-* Change Room Settings (Map/Mode)
+
 
 
 
