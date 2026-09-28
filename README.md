@@ -24,7 +24,6 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/c1dcb708-a6a7-4a77-bbe3-a717fa3f66e9" />
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/326bfeaa-aea0-4638-8832-f469605f263a" />
 <img width="1917" height="1011" alt="image" src="https://github.com/user-attachments/assets/c112f9e8-24f3-49e2-b788-321327292904" />
-<img width="596" height="426" alt="image" src="https://github.com/user-attachments/assets/90fdb294-0fb8-4f68-ae5e-e1d7960f47d0" />
 <img width="576" height="413" alt="image" src="https://github.com/user-attachments/assets/f8046376-ae0d-4ab9-9213-5bbb973a006d" />
 
 
