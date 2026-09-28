@@ -22,6 +22,7 @@ Server Emulator for CrossFire (2012 Z8Games)
 * Clans
 * Repair weapon
 * Durability deduction from matches
+* Port content from modern CF to 2012 Z8Games CF client (Characters, Weapons & Skins, Maps)
 
 
 
