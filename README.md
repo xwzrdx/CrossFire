@@ -13,7 +13,7 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 
 
 # To Do
-
+* ``.REZ`` Tool
 
 
 
