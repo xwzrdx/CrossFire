@@ -9,6 +9,8 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 * Honor Level
 * Player Kills/Deaths Stats
 * Player Wins/Losses Stats
+* Buy Items
+* Inventory
 
 
 
@@ -25,6 +27,8 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/326bfeaa-aea0-4638-8832-f469605f263a" />
 <img width="1917" height="1011" alt="image" src="https://github.com/user-attachments/assets/c112f9e8-24f3-49e2-b788-321327292904" />
 <img width="576" height="413" alt="image" src="https://github.com/user-attachments/assets/f8046376-ae0d-4ab9-9213-5bbb973a006d" />
+<img width="1910" height="1090" alt="image" src="https://github.com/user-attachments/assets/6361deb3-dcc5-4817-b611-b1d7c1b5ed5c" />
+<img width="1916" height="1095" alt="image" src="https://github.com/user-attachments/assets/72b048a6-95ee-4ce4-8996-374a88aa1f88" />
 
 
 
