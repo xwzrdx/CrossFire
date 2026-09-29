@@ -12,10 +12,18 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 * Buy Items
 * Inventory
 * Ring Effects
+* Room List
+* Create Room
 
 
 
 # To Do
+* Change Room Settings
+* Change Room Owner when host leaves
+* Room Chat
+* Lobby Chat
+* Whisper Chat
+* Friends System
 * ``.REZ`` Tool
 * Shop Editor (Adjust item currencies, names, descriptions, item ids, prices, timed items durations, etc.)
 * Custom Room Rules: Hardcore, Tanky, Lifesteal, Headshot only, etc.
