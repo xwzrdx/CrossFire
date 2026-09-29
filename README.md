@@ -14,7 +14,7 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 
 # To Do
 * ``.REZ`` Tool
-
+* Shop Editor (Adjust item currencies, names, descriptions, item ids, prices, timed items durations, etc.)
 
 
 
