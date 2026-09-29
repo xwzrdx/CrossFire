@@ -11,6 +11,7 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 * Player Wins/Losses Stats
 * Buy Items
 * Inventory
+* Ring Effects
 
 
 
@@ -29,6 +30,7 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 <img width="576" height="413" alt="image" src="https://github.com/user-attachments/assets/f8046376-ae0d-4ab9-9213-5bbb973a006d" />
 <img width="1910" height="1090" alt="image" src="https://github.com/user-attachments/assets/6361deb3-dcc5-4817-b611-b1d7c1b5ed5c" />
 <img width="1916" height="1095" alt="image" src="https://github.com/user-attachments/assets/72b048a6-95ee-4ce4-8996-374a88aa1f88" />
+<img width="1122" height="968" alt="image" src="https://github.com/user-attachments/assets/bb6c7408-e76a-4982-8a1b-c993f77568af" />
 
 
 
