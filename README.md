@@ -12,11 +12,12 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 * Player Clan Names
 * Player Name Colors
 * Player Banners
+* Player Inventories
 * Buy Items
-* Inventory
 * Ring Effects
 * Room List
 * Create Room
+* Gameplay: Health, Ammo, Damage, Armor, Inventory
 
 
 
