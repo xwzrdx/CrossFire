@@ -35,6 +35,7 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 * Viewmodel FOV Changer
 * Health Bars
 * Damage Numbers
+* Fix Mouse Bug
 
 
 # Screenshots
