@@ -26,18 +26,27 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 # To Do
 * Change Room Settings
 * Change Room Owner when host leaves
+* Kick from room and prevent re-entry
+* Drop Weapon
+* Black Market
+* Customize Weapon
+* Delete Weapon
 * Room Chat
 * Lobby Chat
 * Whisper Chat
+* Clan Chat
+* Clan Stats
+* EXP/GP from match
+* EXP/GP Bonus items (Premium weapons, accessoires, etc.)
+* Stats from match
 * Friends System
 * ``.REZ`` Tool
 * Shop Editor (Adjust item currencies, names, descriptions, item ids, prices, timed items durations, etc.)
 * Custom Room Rules: Hardcore, Tanky, Lifesteal, Headshot only, etc.
-* Kick from room and prevent re-entry
 * Health Bars
 * Damage Numbers
 * Fix Mouse Bug
-* Drop Weapon
+
 
 
 # Screenshots
