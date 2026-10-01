@@ -17,6 +17,10 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 * Ring Effects
 * Room List
 * Create Room
+* Change Room Owner when host leaves
+* Leave Room
+* Start Match
+* Multiplayer
 * Gameplay: Health, Ammo, Damage, Armor, Inventory, Respawn Protection (3 sec)
 * FOV Changer
 * Viewmodel FOV Changer
@@ -25,7 +29,6 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 
 # To Do
 * Change Room Settings
-* Change Room Owner when host leaves
 * Kick from room and prevent re-entry
 * Drop Weapon
 * Black Market
