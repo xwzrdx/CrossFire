@@ -18,6 +18,7 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 * Room List
 * Create Room
 * Gameplay: Health, Ammo, Damage, Armor, Inventory
+* Respawn Protection (3 sec)
 
 
 
@@ -36,7 +37,6 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 * Health Bars
 * Damage Numbers
 * Fix Mouse Bug
-* Respawn Protection (3 sec)
 * Drop Weapon
 
 
