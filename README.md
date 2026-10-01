@@ -17,8 +17,9 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 * Ring Effects
 * Room List
 * Create Room
-* Gameplay: Health, Ammo, Damage, Armor, Inventory
-* Respawn Protection (3 sec)
+* Gameplay: Health, Ammo, Damage, Armor, Inventory, Respawn Protection (3 sec)
+* FOV Changer
+* Viewmodel FOV Changer
 
 
 
@@ -32,8 +33,6 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 * ``.REZ`` Tool
 * Shop Editor (Adjust item currencies, names, descriptions, item ids, prices, timed items durations, etc.)
 * Custom Room Rules: Hardcore, Tanky, Lifesteal, Headshot only, etc.
-* FOV Changer
-* Viewmodel FOV Changer
 * Health Bars
 * Damage Numbers
 * Fix Mouse Bug
