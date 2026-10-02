@@ -14,6 +14,7 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 * Player Banners
 * Player Inventories
 * Player Settings
+* Equip Items & Functional Items
 * Buy Items
 * Ring Effects
 * Room List
