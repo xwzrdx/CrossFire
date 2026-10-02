@@ -27,6 +27,7 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 * Gameplay: Health, Ammo, Damage, Armor, Inventory, Respawn Protection (3 sec)
 * FOV Changer
 * Viewmodel FOV Changer
+* Air Strafing
 
 
 
