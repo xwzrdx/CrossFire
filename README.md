@@ -80,6 +80,8 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 <img width="1585" height="896" alt="image" src="https://github.com/user-attachments/assets/9e484a8a-56a1-4736-a54c-dbb5092e1327" />
 
 
+
+https://github.com/user-attachments/assets/2f5fe4be-f38b-4f3f-a489-116f88319f80
 https://github.com/user-attachments/assets/120fedca-0462-4eae-94c0-5056052f3c96
 
 
