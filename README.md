@@ -35,6 +35,7 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 * Kick from room and prevent re-entry
 * Drop Weapon
 * Dead player drop weapon
+* Select Bag in-match
 * Black Market
 * Customize Weapon
 * Delete Weapon
