@@ -32,6 +32,7 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 
 
 # To Do
+* Reroll Ring Effects
 * Change Room Settings
 * Kick from room and prevent re-entry
 * Drop Weapon
