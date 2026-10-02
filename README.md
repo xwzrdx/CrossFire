@@ -33,6 +33,9 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 
 
 # To Do
+* Player Sprays
+* Nickname Color Item
+* Chat Color Item
 * Reroll Ring Effects
 * Change Room Settings
 * Kick from room and prevent re-entry
