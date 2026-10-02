@@ -29,7 +29,7 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 * Viewmodel FOV Changer
 * Air Strafing
 * Bunny Hop
-
+* Damage Numbers
 
 
 # To Do
@@ -58,7 +58,6 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 * Shop Editor (Adjust item currencies, names, descriptions, item ids, prices, timed items durations, etc.)
 * Custom Room Rules: Hardcore, Tanky, Lifesteal, Headshot only, etc.
 * Health Bars
-* Damage Numbers
 * Fix Mouse Bug
 
 
@@ -79,6 +78,12 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 <img width="947" height="766" alt="image" src="https://github.com/user-attachments/assets/3be31b51-fe65-4759-bf01-a569e7b442c2" />
 <img width="775" height="621" alt="image" src="https://github.com/user-attachments/assets/713c05df-76e2-4f30-b152-11e9fc75035d" />
 <img width="1585" height="896" alt="image" src="https://github.com/user-attachments/assets/9e484a8a-56a1-4736-a54c-dbb5092e1327" />
+
+
+https://github.com/user-attachments/assets/120fedca-0462-4eae-94c0-5056052f3c96
+
+
+
 
 
 
