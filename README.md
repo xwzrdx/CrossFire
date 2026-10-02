@@ -20,6 +20,7 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 * Room List
 * Create Room
 * Change Room Owner when host leaves
+* Change Team
 * Leave Room
 * Start Match
 * Multiplayer
