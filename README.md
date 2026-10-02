@@ -13,6 +13,7 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 * Player Name Colors
 * Player Banners
 * Player Inventories
+* Player Settings
 * Buy Items
 * Ring Effects
 * Room List
@@ -31,6 +32,7 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 * Change Room Settings
 * Kick from room and prevent re-entry
 * Drop Weapon
+* Dead player drop weapon
 * Black Market
 * Customize Weapon
 * Delete Weapon
