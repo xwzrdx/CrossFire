@@ -4,7 +4,7 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 # Done
 * Login Authentication + Wrong ID/Password check
 * Create Nickname + Nickname already exists check
-* ZP & GP Currencies
+* Currencies (ZP, GP, MP, Aether Stones, Amethyst, Garnet, Lapis, Citrine, Gold Battle Coins)
 * Rank
 * Honor Level
 * Player Kills/Deaths Stats
@@ -35,7 +35,6 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 
 # To Do
 * Weapon Evolution
-* Currencies (Aether Stones, MP, Garnet, Lapis, Citrine, Amethyst, Gold Battle Coins)
 * Player Sprays
 * Nickname Color Item
 * Chat Color Item
@@ -81,6 +80,7 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 <img width="947" height="766" alt="image" src="https://github.com/user-attachments/assets/3be31b51-fe65-4759-bf01-a569e7b442c2" />
 <img width="775" height="621" alt="image" src="https://github.com/user-attachments/assets/713c05df-76e2-4f30-b152-11e9fc75035d" />
 <img width="1585" height="896" alt="image" src="https://github.com/user-attachments/assets/9e484a8a-56a1-4736-a54c-dbb5092e1327" />
+<img width="970" height="482" alt="image" src="https://github.com/user-attachments/assets/e10a496f-bc2f-4134-8753-630863fc84d3" />
 
 
 
