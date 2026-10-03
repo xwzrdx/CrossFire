@@ -33,6 +33,8 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 
 
 # To Do
+* Weapon Evolution
+* Currencies (Aether Stones, MP, Garnet, Lapis, Citrine, Amethyst, Gold Battle Coins)
 * Player Sprays
 * Nickname Color Item
 * Chat Color Item
