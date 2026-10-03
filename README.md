@@ -30,6 +30,7 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 * Air Strafing
 * Bunny Hop
 * Damage Numbers
+* True FPS (Lower body)
 
 
 # To Do
@@ -86,6 +87,10 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 https://github.com/user-attachments/assets/2f5fe4be-f38b-4f3f-a489-116f88319f80
 
 https://github.com/user-attachments/assets/120fedca-0462-4eae-94c0-5056052f3c96
+
+https://github.com/user-attachments/assets/8a85e934-edb3-42a5-9d7b-5258be5225e6
+
+
 
 
 
