@@ -22,9 +22,15 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 * Change Room Owner when host leaves
 * Change Team
 * Leave Room
+* Room Chat
+* Lobby Chat
 * Start Match
 * Multiplayer
 * Gameplay: Health, Ammo, Damage, Armor, Inventory, Respawn Protection (3 sec)
+
+
+
+# NEW Gameplay Features
 * FOV Changer
 * Viewmodel FOV Changer
 * Air Strafing
@@ -47,8 +53,6 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 * Black Market (GP/ZP Capsules, Citrine Well, Lapis Prospect, Garnet Crates, Lucky System, Winner announcements, Items Won storage)
 * Customize Weapon
 * Delete Weapon
-* Room Chat
-* Lobby Chat
 * Whisper Chat
 * Clan Chat
 * Clan Stats
