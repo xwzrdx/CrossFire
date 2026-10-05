@@ -11,6 +11,7 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 * Player Wins/Losses Stats
 * Player Clan Names
 * Player Name Colors
+* Player Chat Colors
 * Player Banners
 * Player Inventories
 * Player Settings
