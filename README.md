@@ -51,7 +51,7 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 * Drop Weapon
 * Dead player drop weapon
 * Select Bag in-match
-* Black Market (GP/ZP Capsules, Citrine Well, Lapis Prospect, Garnet Crates, Lucky System, Winner announcements, Items Won storage)
+* Black Market (GP/ZP Capsules, Citrine Well, Lapis Prospect, Garnet Crates, Lucky System, Winner announcements, Items Won storage, Exchange Coins Shop)
 * Customize Weapon
 * Delete Weapon
 * Whisper Chat
