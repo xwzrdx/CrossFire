@@ -7,6 +7,7 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 * Currencies (ZP, GP, MP, Aether Stones, Amethyst, Garnet, Lapis, Citrine, Gold Battle Coins)
 * Rank
 * Honor Level
+* Channel Player List
 * Player Kills/Deaths Stats
 * Player Wins/Losses Stats
 * Player Clan Names
