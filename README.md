@@ -33,6 +33,7 @@ Server Emulator for CrossFire (2026 Z8Games/Smilegate)
 
 
 # NEW Gameplay Features
+* Dynamic Viewmodel Adaptation (Corner Slice & Wall pushback)
 * FOV Changer
 * Viewmodel FOV Changer
 * Air Strafing
